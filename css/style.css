@@ -104,7 +104,7 @@ body {
   justify-content: center;
 }
 .banner__content {
-  width: 492px;
+  max-width: 492px;
   text-align: center;
   margin: 0 auto;
   position: relative;
@@ -713,7 +713,7 @@ body {
     flex-direction: column;
     position: absolute;
     left: 0px;
-    top: -600%;
+    top: -1000%;
     text-align: right;
     background: #fff;
     align-items: flex-end;
@@ -812,5 +812,13 @@ body {
     display: block;
     margin: 0;
     margin-bottom: 20px;
+  }
+}
+@media (max-width: 360px) {
+  .banner__title {
+    font-size: 46px;
+  }
+  .banner {
+    padding-top: 20px;
   }
 }
