@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidr16&include_all_commits=true&theme=github_dark&show_icons=true)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sidr16)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sidr16)](https://github.com/Sidko/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidr16&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
