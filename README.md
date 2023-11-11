@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, World! I'm Sayid
 
+![Profile banner](https://pbs.twimg.com/media/Ex9qC6pUcAMtZrm?format=jpg&name=4096x4096)
+
 ## 🚀 About Me
 
 Passionate about coding, creating, and exploring the endless possibilities of technology. I'm IT programmer who thrives on turning ideas into reality through clean, efficient, and elegant code. Constantly on the lookout for new challenges that push my boundaries and expand my skill set.
