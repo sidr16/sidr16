@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, World! I'm Sayid
 
-![Profile banner](https://pbs.twimg.com/media/Ex9qC6pUcAMtZrm?format=jpg&name=4096x4096)
+![Profile banner](https://img.freepik.com/premium-photo/lofi-boy-relaxing-study-session-with-chill-vibes_985323-25239.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais)
 
 ## 🚀 About Me
 
