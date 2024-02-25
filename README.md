@@ -50,7 +50,6 @@ Let's discuss tech, share ideas, or collaborate on cool projects! Connect with m
 
 When not coding, you can find me:
 - Exploring new hiking trails 🏞️
-- Experimenting with new recipes in the kitchen 🍲
 - Losing track of time in a good book 📚
 
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=sidr16.visitor-badge&left_text=My%20Page%20Visitors)
