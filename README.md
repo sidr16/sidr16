@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, World! I'm Sayid
 
-![Profile banner](https://img.freepik.com/premium-photo/lofi-boy-relaxing-study-session-with-chill-vibes_985323-25239.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais)
-
 ## 🚀 About Me
 
 Passionate about coding, creating, and exploring the endless possibilities of technology. I'm IT programmer who thrives on turning ideas into reality through clean, efficient, and elegant code. Constantly on the lookout for new challenges that push my boundaries and expand my skill set.
